@@ -2,7 +2,7 @@
 
 This project involves predicting house prices based on various factors such as location, size, number of bedrooms, bathrooms, amenities, and more. Using regression models, the project analyzes historical data to establish a relationship between these features and the target variable, which is the price of a house.
 
-Key features of the project:
+### Key features of the project:
 
 Dataset: Utilizes a dataset containing housing attributes and corresponding prices.
 Data Preprocessing: Handles missing values, outliers, and normalizes data for better model performance.
