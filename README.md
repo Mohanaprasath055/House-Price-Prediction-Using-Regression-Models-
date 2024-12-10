@@ -16,3 +16,8 @@ Gradient Boosting Regressors
 Evaluation Metrics: Assesses model performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
 Visualization: Includes data insights and prediction trends through interactive plots and dashboards.
 This project serves as a practical application of regression techniques and aims to provide accurate price predictions to aid stakeholders in making informed decisions in the real estate market.
+
+
+
+
+
